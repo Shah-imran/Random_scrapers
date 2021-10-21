@@ -1,0 +1,479 @@
+broad_cat,sub_cat1,link
+Fruits & Vegetables,Fruits,https://shop.bigbazaar.com/catalog/category/Other-Fruits-1251
+Fruits & Vegetables,Fruits,https://shop.bigbazaar.com/catalog/category/Apples-1245
+Fruits & Vegetables,Fruits,https://shop.bigbazaar.com/catalog/category/Mangoes-1250
+Fruits & Vegetables,Fruits,https://shop.bigbazaar.com/catalog/category/Melons-1246
+Fruits & Vegetables,Fruits,https://shop.bigbazaar.com/catalog/category/Citrus-Fruits-1357
+Fruits & Vegetables,Fruits,https://shop.bigbazaar.com/catalog/category/Kiwi-1248
+Fruits & Vegetables,Fruits,https://shop.bigbazaar.com/catalog/category/Bananas-1249
+Fruits & Vegetables,Fruits,https://shop.bigbazaar.com/catalog/category/Exotic-Fruits-1043
+Fruits & Vegetables,Vegetables,https://shop.bigbazaar.com/catalog/category/Other-Vegetables-1261
+Fruits & Vegetables,Vegetables,https://shop.bigbazaar.com/catalog/category/Green-Vegetables-1255
+Fruits & Vegetables,Vegetables,"https://shop.bigbazaar.com/catalog/category/Onion,-Potato-&-Tomato-463"
+Fruits & Vegetables,Vegetables,https://shop.bigbazaar.com/catalog/category/Leafy-Vegetables-455
+Fruits & Vegetables,Vegetables,https://shop.bigbazaar.com/catalog/category/Exotic-Vegetables-1045
+Fruits & Vegetables,Cuts and Sprouts,https://shop.bigbazaar.com/catalog/category/Sprouts-1268
+Fruits & Vegetables,Cuts and Sprouts,https://shop.bigbazaar.com/catalog/category/Cut-Vegetables-1266
+Fruits & Vegetables,Cuts and Sprouts,https://shop.bigbazaar.com/catalog/category/Exotic-1723
+Fruits & Vegetables,Cuts and Sprouts,https://shop.bigbazaar.com/catalog/category/Processed-Vegetables-1724
+"Bakery, Dairy & Frozen",Dairy,https://shop.bigbazaar.com/catalog/category/Butter--607
+"Bakery, Dairy & Frozen",Dairy,https://shop.bigbazaar.com/catalog/category/Cheese-1400
+"Bakery, Dairy & Frozen",Dairy,https://shop.bigbazaar.com/catalog/category/Milk-609
+"Bakery, Dairy & Frozen",Dairy,https://shop.bigbazaar.com/catalog/category/Other-Dairy-Products-605
+"Bakery, Dairy & Frozen",Dairy,https://shop.bigbazaar.com/catalog/category/Dahi-&-Yoghurt-603
+"Bakery, Dairy & Frozen",Dairy,https://shop.bigbazaar.com/catalog/category/Paneer-&-Tofu-601
+"Bakery, Dairy & Frozen",Dairy,https://shop.bigbazaar.com/catalog/category/Dairy-Based-Drinks-599
+"Bakery, Dairy & Frozen",Dairy,https://shop.bigbazaar.com/catalog/category/Milk-Substitutes-595
+"Bakery, Dairy & Frozen",Dairy,https://shop.bigbazaar.com/catalog/category/Ice-Creams-&-Frozen-Desserts-1014
+"Bakery, Dairy & Frozen",Frozen Foods,https://shop.bigbazaar.com/catalog/category/Frozen-Fruits-&-Vegetables-1361
+"Bakery, Dairy & Frozen",Frozen Foods,https://shop.bigbazaar.com/catalog/category/French-Fries-1360
+"Bakery, Dairy & Frozen",Frozen Foods,https://shop.bigbazaar.com/catalog/category/Frozen-Veg-Snacks-1359
+"Bakery, Dairy & Frozen",Bread & Bakery,https://shop.bigbazaar.com/catalog/category/Bread-Sticks-&-Lavash-1700
+"Bakery, Dairy & Frozen",Bread & Bakery,https://shop.bigbazaar.com/catalog/category/Fresh-Cookies-1699
+"Bakery, Dairy & Frozen",Bread & Bakery,https://shop.bigbazaar.com/catalog/category/Cupcakes-&-Brownies-1669
+"Bakery, Dairy & Frozen",Bread & Bakery,https://shop.bigbazaar.com/catalog/category/Flat-Bread-1668
+"Bakery, Dairy & Frozen",Bread & Bakery,https://shop.bigbazaar.com/catalog/category/Fresh-Breads-591
+"Bakery, Dairy & Frozen",Bread & Bakery,https://shop.bigbazaar.com/catalog/category/Speciality-Breads-589
+"Bakery, Dairy & Frozen",Bread & Bakery,https://shop.bigbazaar.com/catalog/category/Buns-&-Rolls-587
+"Bakery, Dairy & Frozen",Bread & Bakery,https://shop.bigbazaar.com/catalog/category/Tea-Cakes-&-Muffins-585
+"Bakery, Dairy & Frozen",Bread & Bakery,https://shop.bigbazaar.com/catalog/category/Kharis-&-Toasts-583
+"Eggs, Meats & Seafoods",Eggs,https://shop.bigbazaar.com/catalog/category/Eggs-321
+"Eggs, Meats & Seafoods",Chicken,https://shop.bigbazaar.com/catalog/category/Frozen-Chicken-1598
+"Eggs, Meats & Seafoods",Chicken,https://shop.bigbazaar.com/catalog/category/Fresh-Chicken-1596
+"Eggs, Meats & Seafoods",Fish and Seafood,https://shop.bigbazaar.com/catalog/category/Frozen-&-Other-Sea-Food-1647
+Staples,Oils & Ghee,https://shop.bigbazaar.com/catalog/category/Other-Cooking-Oils-1347
+Staples,Oils & Ghee,https://shop.bigbazaar.com/catalog/category/Cow-Ghee-1343
+Staples,Oils & Ghee,https://shop.bigbazaar.com/catalog/category/Coconut-Oil-1342
+Staples,Oils & Ghee,https://shop.bigbazaar.com/catalog/category/Soybean-Oil-1056
+Staples,Oils & Ghee,https://shop.bigbazaar.com/catalog/category/Sunflower-Oil-535
+Staples,Oils & Ghee,https://shop.bigbazaar.com/catalog/category/Groundnut-Oil--533
+Staples,Oils & Ghee,https://shop.bigbazaar.com/catalog/category/Mustard-Oil-531
+Staples,Oils & Ghee,https://shop.bigbazaar.com/catalog/category/Olive-Oil-529
+Staples,Oils & Ghee,https://shop.bigbazaar.com/catalog/category/Rice-Bran-Oil-527
+Staples,Oils & Ghee,https://shop.bigbazaar.com/catalog/category/Desi-Ghee-525
+Staples,Dals & Pulses,https://shop.bigbazaar.com/catalog/category/Toor-1315
+Staples,Dals & Pulses,https://shop.bigbazaar.com/catalog/category/Other-Pulses-1335
+Staples,Dals & Pulses,https://shop.bigbazaar.com/catalog/category/Peas-1332
+Staples,Dals & Pulses,https://shop.bigbazaar.com/catalog/category/Chawli-1330
+Staples,Dals & Pulses,https://shop.bigbazaar.com/catalog/category/Rajma-1328
+Staples,Dals & Pulses,https://shop.bigbazaar.com/catalog/category/Kabuli-Chana-1324
+Staples,Dals & Pulses,https://shop.bigbazaar.com/catalog/category/Masoor--1322
+Staples,Dals & Pulses,https://shop.bigbazaar.com/catalog/category/Urad--1321
+Staples,Dals & Pulses,https://shop.bigbazaar.com/catalog/category/Chana-1318
+Staples,Dals & Pulses,https://shop.bigbazaar.com/catalog/category/Moong--1316
+Staples,Rice,https://shop.bigbazaar.com/catalog/category/Hmt-Kolam-Rice-1298
+Staples,Rice,https://shop.bigbazaar.com/catalog/category/Other-Regional-Rice-1296
+Staples,Rice,https://shop.bigbazaar.com/catalog/category/Surti-Kolam-Rice-1294
+Staples,Rice,https://shop.bigbazaar.com/catalog/category/Sona-Masoori-Rice-1293
+Staples,Rice,https://shop.bigbazaar.com/catalog/category/Matta-Rice-1291
+Staples,Rice,https://shop.bigbazaar.com/catalog/category/Idli-Rice-1285
+Staples,Rice,https://shop.bigbazaar.com/catalog/category/Basmati-Rice-567
+Staples,Rice,https://shop.bigbazaar.com/catalog/category/Brown-Rice-&-Exotic-Rice-565
+Staples,Rice,https://shop.bigbazaar.com/catalog/category/Other-Boiled-Rice-563
+Staples,Masalas & Spices,https://shop.bigbazaar.com/catalog/category/Whole-Spices-561
+Staples,Masalas & Spices,https://shop.bigbazaar.com/catalog/category/Powdered-Spices-559
+Staples,Masalas & Spices,https://shop.bigbazaar.com/catalog/category/Cooking-Pastes-&-Marinades-557
+Staples,Masalas & Spices,https://shop.bigbazaar.com/catalog/category/Blended-Masala-555
+Staples,Masalas & Spices,https://shop.bigbazaar.com/catalog/category/Herbs-&-Seasoning-551
+Staples,Dry Fruits & Nuts,https://shop.bigbazaar.com/catalog/category/Pistachio-1292
+Staples,Dry Fruits & Nuts,https://shop.bigbazaar.com/catalog/category/Apricots-1290
+Staples,Dry Fruits & Nuts,https://shop.bigbazaar.com/catalog/category/Dates-1288
+Staples,Dry Fruits & Nuts,https://shop.bigbazaar.com/catalog/category/Cashews-1286
+Staples,Dry Fruits & Nuts,https://shop.bigbazaar.com/catalog/category/Almonds-523
+Staples,Dry Fruits & Nuts,https://shop.bigbazaar.com/catalog/category/Raisins-521
+Staples,Dry Fruits & Nuts,https://shop.bigbazaar.com/catalog/category/Other-Dry-Fruits-517
+Staples,Atta & Flours,https://shop.bigbazaar.com/catalog/category/Rava-&-Suji-1281
+Staples,Atta & Flours,https://shop.bigbazaar.com/catalog/category/Multigrain-Atta-1280
+Staples,Atta & Flours,https://shop.bigbazaar.com/catalog/category/Maida-1002
+Staples,Atta & Flours,https://shop.bigbazaar.com/catalog/category/Wheat-Atta-489
+Staples,Atta & Flours,https://shop.bigbazaar.com/catalog/category/Besan-493
+Staples,Atta & Flours,https://shop.bigbazaar.com/catalog/category/Rice-Flours-487
+Staples,Atta & Flours,https://shop.bigbazaar.com/catalog/category/Health-&-Other-Flours-483
+Staples,"Salt, Sugar and Sweeteners",https://shop.bigbazaar.com/catalog/category/Sweetners-1349
+Staples,"Salt, Sugar and Sweeteners",https://shop.bigbazaar.com/catalog/category/Salt-575
+Staples,"Salt, Sugar and Sweeteners",https://shop.bigbazaar.com/catalog/category/Jaggery-573
+Staples,"Salt, Sugar and Sweeteners",https://shop.bigbazaar.com/catalog/category/Sugar-571
+Staples,Other Cereals,https://shop.bigbazaar.com/catalog/category/Wheat-1633
+Staples,Other Cereals,https://shop.bigbazaar.com/catalog/category/Murmura-1314
+Staples,Other Cereals,https://shop.bigbazaar.com/catalog/category/Daliya-1313
+Staples,Other Cereals,https://shop.bigbazaar.com/catalog/category/Poha-1310
+Staples,Other Cereals,https://shop.bigbazaar.com/catalog/category/Millets-1309
+Staples,Other Cereals,https://shop.bigbazaar.com/catalog/category/Futana-1308
+Staples,Other Cereals,https://shop.bigbazaar.com/catalog/category/Soya-Chunks-1307
+Staples,Other Cereals,https://shop.bigbazaar.com/catalog/category/Makhana-1306
+Staples,Other Cereals,https://shop.bigbazaar.com/catalog/category/Groundnut-1305
+Staples,Organic Staples,https://shop.bigbazaar.com/catalog/category/Dried-Fruits-&-Nuts-1456
+Staples,Organic Staples,"https://shop.bigbazaar.com/catalog/category/Salt,-Sugar-and-Sweeteners-1354"
+Staples,Organic Staples,https://shop.bigbazaar.com/catalog/category/Masalas-&-Spices-1352
+Staples,Organic Staples,https://shop.bigbazaar.com/catalog/category/Other-Cereals-1350
+Staples,Organic Staples,https://shop.bigbazaar.com/catalog/category/Dal-&-Pulses-1319
+Staples,Organic Staples,https://shop.bigbazaar.com/catalog/category/Rice-1312
+Staples,Organic Staples,https://shop.bigbazaar.com/catalog/category/Atta-&-Flours-1295
+Packaged Food,,https://shop.bigbazaar.com/catalog/category/Fresh-Dips-1698
+Packaged Food,"Biscuits,Cookies & Bakery",https://shop.bigbazaar.com/catalog/category/Wafer-Biscuit-1386
+Packaged Food,"Biscuits,Cookies & Bakery",https://shop.bigbazaar.com/catalog/category/Choco-Pie-1385
+Packaged Food,"Biscuits,Cookies & Bakery",https://shop.bigbazaar.com/catalog/category/Marie-1384
+Packaged Food,"Biscuits,Cookies & Bakery",https://shop.bigbazaar.com/catalog/category/Salted-Biscuits-1383
+Packaged Food,"Biscuits,Cookies & Bakery",https://shop.bigbazaar.com/catalog/category/Plain-Biscuits-1378
+Packaged Food,"Biscuits,Cookies & Bakery",https://shop.bigbazaar.com/catalog/category/Digestive-Biscuits-1382
+Packaged Food,"Biscuits,Cookies & Bakery",https://shop.bigbazaar.com/catalog/category/Centerfilled-Biscuit-1381
+Packaged Food,"Biscuits,Cookies & Bakery",https://shop.bigbazaar.com/catalog/category/Cream-BiscuIts-1377
+Packaged Food,"Biscuits,Cookies & Bakery",https://shop.bigbazaar.com/catalog/category/Cookies-1376
+Packaged Food,"Biscuits,Cookies & Bakery",https://shop.bigbazaar.com/catalog/category/Kharis-&-Rusk-1375
+Packaged Food,"Pasta, Noodles & Vermicelli",https://shop.bigbazaar.com/catalog/category/Vermicelli-1403
+Packaged Food,"Pasta, Noodles & Vermicelli",https://shop.bigbazaar.com/catalog/category/Cooking-Pasta-1402
+Packaged Food,"Pasta, Noodles & Vermicelli",https://shop.bigbazaar.com/catalog/category/Chinese-Noodles-1401
+Packaged Food,"Pasta, Noodles & Vermicelli",https://shop.bigbazaar.com/catalog/category/Instant-Pasta-1390
+Packaged Food,"Pasta, Noodles & Vermicelli",https://shop.bigbazaar.com/catalog/category/Instant-Noodles-1389
+Packaged Food,Pickles & Papads,https://shop.bigbazaar.com/catalog/category/Papads-&-Fryums-1421
+Packaged Food,Pickles & Papads,https://shop.bigbazaar.com/catalog/category/Pickles-1420
+Packaged Food,Infant & baby food,https://shop.bigbazaar.com/catalog/category/Baby-Cereal-1423
+Packaged Food,Infant & baby food,https://shop.bigbazaar.com/catalog/category/Infant-Formula-1422
+Packaged Food,Sauces Jams & Spreads,https://shop.bigbazaar.com/catalog/category/Vinegar-1419
+Packaged Food,Sauces Jams & Spreads,https://shop.bigbazaar.com/catalog/category/Salad-Dressing-&-Dip-1418
+Packaged Food,Sauces Jams & Spreads,https://shop.bigbazaar.com/catalog/category/Ketchup-&-Sauce-1417
+Packaged Food,Sauces Jams & Spreads,https://shop.bigbazaar.com/catalog/category/Spreads-1415
+Packaged Food,Sauces Jams & Spreads,https://shop.bigbazaar.com/catalog/category/Mayonnaise-1408
+Packaged Food,Sauces Jams & Spreads,https://shop.bigbazaar.com/catalog/category/Jams-1407
+Packaged Food,Wafers & Namkeens,https://shop.bigbazaar.com/catalog/category/Other-Snacks-1388
+Packaged Food,Wafers & Namkeens,https://shop.bigbazaar.com/catalog/category/Corn-Based-Chips-1387
+Packaged Food,Wafers & Namkeens,https://shop.bigbazaar.com/catalog/category/Potato-Based-Chips-691
+Packaged Food,Wafers & Namkeens,https://shop.bigbazaar.com/catalog/category/Namkeen-689
+Packaged Food,Wafers & Namkeens,https://shop.bigbazaar.com/catalog/category/Popcorn-685
+Packaged Food,,https://shop.bigbazaar.com/catalog/category/Noodles-363
+Packaged Food,Ready to Cook & Eat,https://shop.bigbazaar.com/catalog/category/Dessert-&-Cake-Mixes-1392
+Packaged Food,Ready to Cook & Eat,https://shop.bigbazaar.com/catalog/category/Baking-Needs-1391
+Packaged Food,Ready to Cook & Eat,https://shop.bigbazaar.com/catalog/category/Heat-&-Eat-Meals-683
+Packaged Food,Ready to Cook & Eat,https://shop.bigbazaar.com/catalog/category/Instant-Mixes-681
+Packaged Food,Ready to Cook & Eat,https://shop.bigbazaar.com/catalog/category/Soups-679
+Packaged Food,Ready to Cook & Eat,https://shop.bigbazaar.com/catalog/category/Canned-Foods-367
+Packaged Food,Breakfast Cereals,https://shop.bigbazaar.com/catalog/category/Corn-Based-Flakes-653
+Packaged Food,Breakfast Cereals,https://shop.bigbazaar.com/catalog/category/Oats-651
+Packaged Food,Breakfast Cereals,https://shop.bigbazaar.com/catalog/category/Muesli-647
+Packaged Food,Health Foods,https://shop.bigbazaar.com/catalog/category/Chyawanprash-&-Other-Ayurvedic-Products-1395
+Packaged Food,Health Foods,https://shop.bigbazaar.com/catalog/category/Honey-1394
+Packaged Food,Health Foods,https://shop.bigbazaar.com/catalog/category/Nutrition-Bars-&-Fruits-1393
+Packaged Food,Chocolates and Sweets,https://shop.bigbazaar.com/catalog/category/Chocolates-663
+Packaged Food,Chocolates and Sweets,https://shop.bigbazaar.com/catalog/category/Toffee-&-Eclairs-661
+Packaged Food,Chocolates and Sweets,https://shop.bigbazaar.com/catalog/category/Gums-&-Mints-659
+Packaged Food,Chocolates and Sweets,https://shop.bigbazaar.com/catalog/category/Candies-&-Lollypops-657
+Packaged Food,Chocolates and Sweets,https://shop.bigbazaar.com/catalog/category/Sweets-&-Chikkis-655
+Packaged Food,Baking & Dessert Needs,https://shop.bigbazaar.com/catalog/category/Dessert-&-Cake-Mixes-643
+HOME SPL Category,,https://shop.bigbazaar.com/catalog/category/Dotd-Super-Price-893
+HOME SPL Category,,https://shop.bigbazaar.com/catalog/category/Super-Deal-1631
+HOME SPL Category,,https://shop.bigbazaar.com/catalog/category/Cut-n-chop-range-1161
+HOME SPL Category,,https://shop.bigbazaar.com/catalog/category/Kitchen-needs-under-199-1549
+HOME SPL Category,,https://shop.bigbazaar.com/catalog/category/Home-Needs-under-99-1463
+HOME SPL Category,,https://shop.bigbazaar.com/catalog/category/Cook-&-Serve-1649
+Festive Store,,https://shop.bigbazaar.com/catalog/category/Fruits-1221
+Festive Store,,https://shop.bigbazaar.com/catalog/category/Chocolate-1095
+Festive Store,,https://shop.bigbazaar.com/catalog/category/Ghee-1738
+Festive Store,,https://shop.bigbazaar.com/catalog/category/Dry-fruits-1219
+Festive Store,Upwas foods,https://shop.bigbazaar.com/catalog/category/Upwas-snacks-1740
+Festive Store,Upwas foods,https://shop.bigbazaar.com/catalog/category/Upwas-Staples-1741
+Festive Store,Upwas foods,https://shop.bigbazaar.com/catalog/category/Jaggery-Sugar-&-Salt-1742
+Festive Store,Upwas foods,https://shop.bigbazaar.com/catalog/category/Upwas-Vegetables-1743
+Festive Store,Upwas foods,https://shop.bigbazaar.com/catalog/category/Puja-bhog-1189
+Festive Store,Upwas foods,https://shop.bigbazaar.com/catalog/category/Sweets-1186
+Festive Store,Upwas foods,https://shop.bigbazaar.com/catalog/category/Milk-and-Curd-1070
+Festive Store,Upwas foods,https://shop.bigbazaar.com/catalog/category/Puja-Needs-1238
+Festive Store,Upwas foods,https://shop.bigbazaar.com/catalog/category/Home-&-Leisure-1689
+Personal Care,Baby Care,https://shop.bigbazaar.com/catalog/category/Bath-&-Skin-1428
+Personal Care,Baby Care,https://shop.bigbazaar.com/catalog/category/Diapers-&-Wipes-1427
+Personal Care,"Soaps, Body & Handwash",https://shop.bigbazaar.com/catalog/category/Soaps-699
+Personal Care,"Soaps, Body & Handwash",https://shop.bigbazaar.com/catalog/category/Handwash-&-Hand-Sanitizer-695
+Personal Care,"Soaps, Body & Handwash",https://shop.bigbazaar.com/catalog/category/Bath-Accessories-1059
+Personal Care,Hair Care,https://shop.bigbazaar.com/catalog/category/Hair-Accessories-1722
+Personal Care,Hair Care,https://shop.bigbazaar.com/catalog/category/Hair-Brushes-&-Combs-1721
+Personal Care,Hair Care,https://shop.bigbazaar.com/catalog/category/Shampoo-&-Conditioners-707
+Personal Care,Hair Care,https://shop.bigbazaar.com/catalog/category/Hair-Oil-705
+Personal Care,Hair Care,https://shop.bigbazaar.com/catalog/category/Hair-Colours-&-Dyes-703
+Personal Care,Hair Care,https://shop.bigbazaar.com/catalog/category/Styling-Products-701
+Personal Care,"Deos, Perfumes and Talcs",https://shop.bigbazaar.com/catalog/category/Deos-and-Mists-739
+Personal Care,Oral Care,https://shop.bigbazaar.com/catalog/category/Toothbrush-763
+Personal Care,Oral Care,https://shop.bigbazaar.com/catalog/category/Toothpaste-&-Tooth-Powder-761
+Personal Care,Oral Care,https://shop.bigbazaar.com/catalog/category/Mouthwash-759
+Personal Care,Oral Care,https://shop.bigbazaar.com/catalog/category/Dental-Aids-and-Floss-757
+Personal Care,Fem Sanitary Needs,"https://shop.bigbazaar.com/catalog/category/Sanitary-Pads,-Liners-&-Tampons-769"
+Personal Care,Fem Sanitary Needs,https://shop.bigbazaar.com/catalog/category/Hygiene-Wash-765
+Personal Care,Shaving Needs,"https://shop.bigbazaar.com/catalog/category/Shaving-Creams,-Foams-and-Gels-777"
+Personal Care,Shaving Needs,https://shop.bigbazaar.com/catalog/category/Shaving-Blades-and-Razors-775
+Personal Care,Shaving Needs,https://shop.bigbazaar.com/catalog/category/Shaving-Kits-773
+Personal Care,Shaving Needs,https://shop.bigbazaar.com/catalog/category/After-Shave-771
+Personal Care,Medicare Products,https://shop.bigbazaar.com/catalog/category/Wound-Care-785
+Personal Care,Medicare Products,https://shop.bigbazaar.com/catalog/category/Pain-Relievers-783
+Personal Care,Medicare Products,https://shop.bigbazaar.com/catalog/category/Others-781
+Personal Care,Medicare Products,https://shop.bigbazaar.com/catalog/category/Sexual-Wellness-779
+Beverages,,https://shop.bigbazaar.com/catalog/category/Coffee-1363
+Beverages,Tea,https://shop.bigbazaar.com/catalog/category/Tea-Bags-1365
+Beverages,Tea,https://shop.bigbazaar.com/catalog/category/Green-Tea-1364
+Beverages,Tea,https://shop.bigbazaar.com/catalog/category/Tea-613
+Beverages,Soft Drinks & Juices,https://shop.bigbazaar.com/catalog/category/Energy-Drinks-1368
+Beverages,Soft Drinks & Juices,https://shop.bigbazaar.com/catalog/category/Water-&-Soda-1367
+Beverages,Soft Drinks & Juices,https://shop.bigbazaar.com/catalog/category/Soft-Drinks-1366
+Beverages,Soft Drinks & Juices,https://shop.bigbazaar.com/catalog/category/Fruit-Juices-621
+Beverages,Soft Drinks & Juices,https://shop.bigbazaar.com/catalog/category/Fruit-Drinks-615
+Beverages,Syrups & Concentrates,https://shop.bigbazaar.com/catalog/category/Powder-Concentrates-1371
+Beverages,Syrups & Concentrates,https://shop.bigbazaar.com/catalog/category/Squashes-and-Syrups-1370
+Beverages,Health Drinks,https://shop.bigbazaar.com/catalog/category/Toddler-Nutrition-1374
+Beverages,Health Drinks,https://shop.bigbazaar.com/catalog/category/Child-Nutrition-1373
+Beverages,Health Drinks,https://shop.bigbazaar.com/catalog/category/Adult-Nutrition-1372
+Men,,"https://shop.bigbazaar.com/catalog/category/Tees,-Polos-&-Sweatshirts-1129"
+Men,,https://shop.bigbazaar.com/catalog/category/Shirts-1128
+Men,,https://shop.bigbazaar.com/catalog/category/Jackets-&-Blazers-1127
+Men,,https://shop.bigbazaar.com/catalog/category/Denims-1126
+Men,,https://shop.bigbazaar.com/catalog/category/Trousers-&-Chinos-1125
+Men,,https://shop.bigbazaar.com/catalog/category/Shorts-1124
+Men,,"https://shop.bigbazaar.com/catalog/category/Ethnic-Kurtas,-Shirts-&-Jackets-1123"
+Men,,https://shop.bigbazaar.com/catalog/category/Ethnic-Sets-&-Pyjamas-1122
+Men,,https://shop.bigbazaar.com/catalog/category/Sportswear-1121
+Men,,https://shop.bigbazaar.com/catalog/category/Innerwear-&-Sleepwear-1120
+Men,,https://shop.bigbazaar.com/catalog/category/Bags-&-Accessories-1118
+Women,,https://shop.bigbazaar.com/catalog/category/Kurtas-and-Kurtis-1104
+Women,,"https://shop.bigbazaar.com/catalog/category/Tops,-Tees-&-Shirts-1117"
+Women,,https://shop.bigbazaar.com/catalog/category/Kurta-Sets-&-Dupattas-1116
+Women,,https://shop.bigbazaar.com/catalog/category/Palazzos-&-Pants-1115
+Women,,https://shop.bigbazaar.com/catalog/category/Leggings-&-Salwars-1114
+Women,,https://shop.bigbazaar.com/catalog/category/Skirts-1113
+Women,,https://shop.bigbazaar.com/catalog/category/Jackets-&-Shrugs-1112
+Women,,https://shop.bigbazaar.com/catalog/category/Dresses-&-Dungarees-1111
+Women,,https://shop.bigbazaar.com/catalog/category/Denims-and-Jeggings-1110
+Women,,https://shop.bigbazaar.com/catalog/category/Sweatshirts-1109
+Women,,https://shop.bigbazaar.com/catalog/category/Shorts-1108
+Women,,https://shop.bigbazaar.com/catalog/category/Sportswear-1107
+Women,,https://shop.bigbazaar.com/catalog/category/Sleepwear-1106
+Women,,https://shop.bigbazaar.com/catalog/category/Bags-&-Accessories-1105
+Kids,,https://shop.bigbazaar.com/catalog/category/Kids-Accessories-1236
+Kids,,https://shop.bigbazaar.com/catalog/category/Girls-Co-Ords-1208
+Kids,,https://shop.bigbazaar.com/catalog/category/Girls-Ethnicwear-1207
+Kids,,"https://shop.bigbazaar.com/catalog/category/Boys-Shirts,-Tshirts-&-Jackets-1142"
+Kids,,https://shop.bigbazaar.com/catalog/category/Boys-Co-Ords-1141
+Kids,,https://shop.bigbazaar.com/catalog/category/Boys-Jeans-&-Shorts-1140
+Kids,,https://shop.bigbazaar.com/catalog/category/Boys-Ethnic-Wear-1143
+Kids,,"https://shop.bigbazaar.com/catalog/category/Girls-Tops,-Tshirts-&-Jackets-1139"
+Kids,,https://shop.bigbazaar.com/catalog/category/Girls-Frocks-&-Dresses-1138
+Kids,,https://shop.bigbazaar.com/catalog/category/Girls-Denims-and-Leggings-1137
+Kids,,https://shop.bigbazaar.com/catalog/category/Girls-Shorts-&-Skirts-1136
+Kids,,https://shop.bigbazaar.com/catalog/category/Girls-Innerwear-&-Sleepwear-1135
+Kids,,https://shop.bigbazaar.com/catalog/category/Infants-Tops-&-Dresses-1134
+Kids,,https://shop.bigbazaar.com/catalog/category/Infants-Bottoms-1133
+Kids,,https://shop.bigbazaar.com/catalog/category/Infants-Innerwear-1132
+Kids,,https://shop.bigbazaar.com/catalog/category/Infants-Sets-&-Onesies-1131
+Footwear,Men's Footwear,https://shop.bigbazaar.com/catalog/category/Men's-Sports-Shoes-1609
+Footwear,Men's Footwear,https://shop.bigbazaar.com/catalog/category/Men's-Sandals-&-Slippers-1607
+Footwear,Men's Footwear,https://shop.bigbazaar.com/catalog/category/Men's-Formal-Shoes-1606
+Footwear,Men's Footwear,https://shop.bigbazaar.com/catalog/category/Men's-Casual-Shoes-1605
+Footwear,Women's Footwear,https://shop.bigbazaar.com/catalog/category/Women's-Sports-Shoes-1615
+Footwear,Women's Footwear,https://shop.bigbazaar.com/catalog/category/Women's-Sandals-and-Slippers-1614
+Footwear,Women's Footwear,https://shop.bigbazaar.com/catalog/category/Women's-Casual-Shoes-1611
+Footwear,Girls' Footwear,https://shop.bigbazaar.com/catalog/category/Girls'-Sandals-&-Slippers-1624
+Footwear,Girls' Footwear,https://shop.bigbazaar.com/catalog/category/Girls'-Casual-Shoes-1623
+Footwear,Boys' Footwear,https://shop.bigbazaar.com/catalog/category/Boys'-Sandals-and-Slippers-1619
+Footwear,Boys' Footwear,https://shop.bigbazaar.com/catalog/category/Boys'-Casual-Shoes-1618
+Skin Care & Beauty,Color Cosmetics,https://shop.bigbazaar.com/catalog/category/Face-Makeup-1452
+Skin Care & Beauty,Color Cosmetics,https://shop.bigbazaar.com/catalog/category/Nail-Care--1451
+Skin Care & Beauty,Color Cosmetics,https://shop.bigbazaar.com/catalog/category/Eye-Makeup-1450
+Skin Care & Beauty,Color Cosmetics,https://shop.bigbazaar.com/catalog/category/Lip-Makeup-1449
+Skin Care & Beauty,Beauty Accessories,https://shop.bigbazaar.com/catalog/category/Bath-&-Beauty-Accessories-1446
+Skin Care & Beauty,Skin Care,https://shop.bigbazaar.com/catalog/category/Facial-kits-1455
+Skin Care & Beauty,Skin Care,https://shop.bigbazaar.com/catalog/category/Sunscreens-1454
+Skin Care & Beauty,Skin Care,https://shop.bigbazaar.com/catalog/category/Hair-Remover-1445
+Skin Care & Beauty,Skin Care,https://shop.bigbazaar.com/catalog/category/Face-Tissues-&-Wet-Wipes-1444
+Skin Care & Beauty,Skin Care,https://shop.bigbazaar.com/catalog/category/Lip-Balms-1443
+Skin Care & Beauty,Skin Care,https://shop.bigbazaar.com/catalog/category/Face-Creams--1442
+Skin Care & Beauty,Skin Care,https://shop.bigbazaar.com/catalog/category/Body-Oils-&-Lotions-1441
+Skin Care & Beauty,Skin Care,https://shop.bigbazaar.com/catalog/category/Face-Pack-&-Bleaches-1440
+Skin Care & Beauty,Skin Care,"https://shop.bigbazaar.com/catalog/category/Face-Wash,-Scrubs-&-Packs-1439"
+Skin Care & Beauty,"Deos, Perfumes and Talcs",https://shop.bigbazaar.com/catalog/category/Talc-&-Powder-1438
+Skin Care & Beauty,"Deos, Perfumes and Talcs",https://shop.bigbazaar.com/catalog/category/Perfume-&-Mist-1437
+Skin Care & Beauty,"Deos, Perfumes and Talcs",https://shop.bigbazaar.com/catalog/category/Deodorants-1436
+Home Care,,https://shop.bigbazaar.com/catalog/category/Pet-Care-1397
+Home Care,Cleaning & Hygiene,https://shop.bigbazaar.com/catalog/category/Home-Cleaning-1544
+Home Care,Cleaning & Hygiene,https://shop.bigbazaar.com/catalog/category/Bathroom-Cleaning--1545
+Home Care,Cleaning & Hygiene,https://shop.bigbazaar.com/catalog/category/Kitchen-Cleaning-1546
+Home Care,Batteries & LEDs,https://shop.bigbazaar.com/catalog/category/LED-&-Others-1252
+Home Care,Batteries & LEDs,https://shop.bigbazaar.com/catalog/category/Batteries-1244
+Home Care,Laundry & Detergents,https://shop.bigbazaar.com/catalog/category/Detergent-Powders-797
+Home Care,Laundry & Detergents,https://shop.bigbazaar.com/catalog/category/Detergent-Liquids-793
+Home Care,Laundry & Detergents,https://shop.bigbazaar.com/catalog/category/Detergent-Bars-791
+Home Care,Laundry & Detergents,https://shop.bigbazaar.com/catalog/category/Laundry-Aids-789
+Home Care,Laundry & Detergents,https://shop.bigbazaar.com/catalog/category/Fabric-Softeners-787
+Home Care,Utensil Cleaners,https://shop.bigbazaar.com/catalog/category/Dishwash-Bars-and-Powders-809
+Home Care,Utensil Cleaners,https://shop.bigbazaar.com/catalog/category/Dishwash-Liquids-807
+Home Care,"Toilet, Floor & Other Cleaners",https://shop.bigbazaar.com/catalog/category/Phenyls-1257
+Home Care,"Toilet, Floor & Other Cleaners",https://shop.bigbazaar.com/catalog/category/Home-&-Kitchen-Cleaning-tools-415
+Home Care,"Toilet, Floor & Other Cleaners","https://shop.bigbazaar.com/catalog/category/Kitchen,-Glass-&-Drain-Cleaners-799"
+Home Care,"Toilet, Floor & Other Cleaners",https://shop.bigbazaar.com/catalog/category/Toilet-Cleaner-803
+Home Care,"Toilet, Floor & Other Cleaners",https://shop.bigbazaar.com/catalog/category/Floor-Cleaner-801
+Home Care,Home & Air Fresheners,https://shop.bigbazaar.com/catalog/category/Car-Fresheners-1260
+Home Care,Home & Air Fresheners,https://shop.bigbazaar.com/catalog/category/Toilet-Fresheners-1259
+Home Care,Home & Air Fresheners,https://shop.bigbazaar.com/catalog/category/Room-Fresheners-1258
+Home Care,Insect Repellents,https://shop.bigbazaar.com/catalog/category/Other-Insect-Repellant-1267
+Home Care,Insect Repellents,https://shop.bigbazaar.com/catalog/category/Insect-Aerosol-1263
+Home Care,Insect Repellents,https://shop.bigbazaar.com/catalog/category/Mosquitoes-Machine-&-Liquid-Refill-1262
+Home Care,Disposable Goods,https://shop.bigbazaar.com/catalog/category/Aluminium-Foil-&-Cling-Wrap-825
+Home Care,Disposable Goods,https://shop.bigbazaar.com/catalog/category/Paper-Napkins-&-Kitchen-Rolls-823
+Home Care,Disposable Goods,https://shop.bigbazaar.com/catalog/category/Toilet-Paper-821
+Home Care,Disposable Goods,https://shop.bigbazaar.com/catalog/category/Garbage-Bags-819
+Home Care,Disposable Goods,"https://shop.bigbazaar.com/catalog/category/Disposable-Plates,-Cups-&-Cutlery-817"
+Home Care,Pooja Needs,https://shop.bigbazaar.com/catalog/category/Other-Pooja-Needs-1271
+Home Care,Pooja Needs,https://shop.bigbazaar.com/catalog/category/Agarbattis-1270
+Home Care,Shoe Care,https://shop.bigbazaar.com/catalog/category/Shoe-Polish-&-Accessories-1272
+Cooking and Baking,Cookware,https://shop.bigbazaar.com/catalog/category/Cookware-Sets-873
+Cooking and Baking,Pressure Cookers,https://shop.bigbazaar.com/catalog/category/Outer-Lid-1507
+Cooking and Baking,Pressure Cookers,https://shop.bigbazaar.com/catalog/category/Inner-Lid-1508
+Cooking and Baking,Bakeware,https://shop.bigbazaar.com/catalog/category/Cake-&-Muffin-Moulds-1064
+Cooking and Baking,Bakeware,https://shop.bigbazaar.com/catalog/category/Mixing-Bowls-1152
+Cooking and Baking,Bakeware,https://shop.bigbazaar.com/catalog/category/Baking-Tools-1065
+Cooking and Baking,Gas stove & Induction,https://shop.bigbazaar.com/catalog/category/Gas-Stoves-1582
+Cooking and Baking,Gas stove & Induction,https://shop.bigbazaar.com/catalog/category/Induction-Cooktop-1581
+Dining & Serving,Dinner Sets,https://shop.bigbazaar.com/catalog/category/Steelware-1486
+Dining & Serving,"Opalware, Ceramic & Glass",https://shop.bigbazaar.com/catalog/category/Plate-&-Bowls-Opal-1703
+Dining & Serving,"Opalware, Ceramic & Glass",https://shop.bigbazaar.com/catalog/category/Dinner-sets-Opal-1701
+Dining & Serving,Melamine,https://shop.bigbazaar.com/catalog/category/Plate-&-Bowls-Mel-1704
+Dining & Serving,Melamine,https://shop.bigbazaar.com/catalog/category/Dinner-sets-Mel-1702
+Dining & Serving,Serveware,https://shop.bigbazaar.com/catalog/category/Glassware-&-Drinkware-1489
+Dining & Serving,Serveware,https://shop.bigbazaar.com/catalog/category/Serving-Tray-&-Cutlery-1215
+Dining & Serving,Serveware,https://shop.bigbazaar.com/catalog/category/Casserole-909
+Dining & Serving,Serveware,https://shop.bigbazaar.com/catalog/category/Cups-&-Mugs-903
+Dining & Serving,Serveware,https://shop.bigbazaar.com/catalog/category/Serving-Bowls-915
+Kitchen Storage,Containers & Jars,https://shop.bigbazaar.com/catalog/category/Wet-Storage-1708
+Kitchen Storage,Containers & Jars,https://shop.bigbazaar.com/catalog/category/Staple-Containers-1707
+Kitchen Storage,Containers & Jars,https://shop.bigbazaar.com/catalog/category/Side-Lock-Containers-1706
+Kitchen Storage,Containers & Jars,https://shop.bigbazaar.com/catalog/category/Dry-Storage-1705
+Kitchen Storage,Containers & Jars,https://shop.bigbazaar.com/catalog/category/Glass-Storage-1650
+Kitchen Storage,Lunch Box,https://shop.bigbazaar.com/catalog/category/Glass-Lunch-pack-1711
+Kitchen Storage,Lunch Box,https://shop.bigbazaar.com/catalog/category/Steel-Lunch-pack-1710
+Kitchen Storage,Lunch Box,https://shop.bigbazaar.com/catalog/category/Plastic-lunch-pack-1709
+Kitchen Storage,Lunch Box,https://shop.bigbazaar.com/catalog/category/Kids-Lunch-Box-1652
+Kitchen Storage,Water Bottles,https://shop.bigbazaar.com/catalog/category/Flask-1474
+Kitchen Tools & Accessories,"Knives, Choppers & Cutters",https://shop.bigbazaar.com/catalog/category/Under-199-Range-1676
+Kitchen Tools & Accessories,Spoons & Spatula,https://shop.bigbazaar.com/catalog/category/Spoons-under-199-1677
+Kitchen Tools & Accessories,Strainers & Colanders,https://shop.bigbazaar.com/catalog/category/Strainers-under-199-1678
+Kitchen Tools & Accessories,Other kitchen Accessories,https://shop.bigbazaar.com/catalog/category/Kitchen-Acc-Under-199-1679
+Bathware & Organizers,Bathroom Essentials,https://shop.bigbazaar.com/catalog/category/Bathroom-Accessories-1656
+Bathware & Organizers,Bathroom Essentials,"https://shop.bigbazaar.com/catalog/category/Buckets,-Tubs-&-Mugs-1655"
+Bathware & Organizers,Bathroom Essentials,https://shop.bigbazaar.com/catalog/category/Stool-&-Patla-1654
+Bathware & Organizers,Organizing Essentials,https://shop.bigbazaar.com/catalog/category/Kitchen-&-Travel-Organizer-1665
+Bathware & Organizers,Organizing Essentials,https://shop.bigbazaar.com/catalog/category/Organzing-Baskets-1664
+Bathware & Organizers,Organizing Essentials,https://shop.bigbazaar.com/catalog/category/Racks-&-Trolleys-1663
+Bathware & Organizers,Laundry Essentials,https://shop.bigbazaar.com/catalog/category/Drying-Stand-&-Ironing-Board-1659
+Bathware & Organizers,Laundry Essentials,"https://shop.bigbazaar.com/catalog/category/Hangers,-Clips-&-Ropes-1658"
+Bathware & Organizers,Laundry Essentials,https://shop.bigbazaar.com/catalog/category/Laundry-Baskets-&-Hampers-1657
+Bathware & Organizers,Home Utility,https://shop.bigbazaar.com/catalog/category/Festive-&-Garden-Accessories-1662
+Bathware & Organizers,Home Utility,https://shop.bigbazaar.com/catalog/category/Multi-Utility-Hooks-1661
+Bathware & Organizers,Home Utility,https://shop.bigbazaar.com/catalog/category/Swatters-&-Electrical-Accessories-1660
+Luggage,Bags & Backpacks,https://shop.bigbazaar.com/catalog/category/Backpack-1529
+Luggage,Bags & Backpacks,https://shop.bigbazaar.com/catalog/category/School-Bags-1531
+Luggage,Bags & Backpacks,https://shop.bigbazaar.com/catalog/category/Laptop-&-Office-Bags-1532
+Luggage,Travel Luggage,https://shop.bigbazaar.com/catalog/category/Trolley-Bags-1534
+Luggage,Travel Luggage,https://shop.bigbazaar.com/catalog/category/Travel-Accessories-1535
+Luggage,Travel Luggage,https://shop.bigbazaar.com/catalog/category/Duffel-Bags-1536
+Luggage,Travel Luggage,https://shop.bigbazaar.com/catalog/category/Luggage-Trolley-set-1224
+Luggage,Travel Accessories,https://shop.bigbazaar.com/catalog/category/Masks-1629
+Stationery,Office Supplies,https://shop.bigbazaar.com/catalog/category/Copier-Paper-1739
+Stationery,Office Supplies,https://shop.bigbazaar.com/catalog/category/Files-&-Folders-1490
+Stationery,Office Supplies,https://shop.bigbazaar.com/catalog/category/Other-Office-Accessories-1177
+Stationery,School Supplies,https://shop.bigbazaar.com/catalog/category/Markers-&-Highlighters-1491
+Stationery,School Supplies,https://shop.bigbazaar.com/catalog/category/Pencils-Eraser-&-Sharpeners-1170
+Stationery,School Supplies,https://shop.bigbazaar.com/catalog/category/Pencil-Box-&-geometry-Box-1168
+Stationery,School Supplies,https://shop.bigbazaar.com/catalog/category/Other-School-Supplies-1171
+Stationery,Pens,https://shop.bigbazaar.com/catalog/category/Premium-Pen-1494
+Stationery,Pens,https://shop.bigbazaar.com/catalog/category/Roller/-Ball/-Gel-pens-1496
+Stationery,Pens,https://shop.bigbazaar.com/catalog/category/Fine-Tip-&-Fountain-Pen-1495
+Stationery,Notebooks & Diaries,https://shop.bigbazaar.com/catalog/category/Ruled-Note-Books-1497
+Stationery,Notebooks & Diaries,https://shop.bigbazaar.com/catalog/category/Un-Ruled-Note-Books-1498
+Stationery,Notebooks & Diaries,https://shop.bigbazaar.com/catalog/category/Drawing-Book-1499
+Stationery,Notebooks & Diaries,https://shop.bigbazaar.com/catalog/category/Journals-and-Diaries-1500
+Stationery,Art & Craft Supplies,https://shop.bigbazaar.com/catalog/category/Art-&-Craft-Kits-1501
+Stationery,Art & Craft Supplies,https://shop.bigbazaar.com/catalog/category/Crayons-&-Colour-Pencils-1502
+Stationery,Art & Craft Supplies,https://shop.bigbazaar.com/catalog/category/Paints-&-Colours-1503
+"Toys, Sports & Games",Outdoor Sports ,https://shop.bigbazaar.com/catalog/category/Boxing-1685
+"Toys, Sports & Games",Outdoor Sports ,https://shop.bigbazaar.com/catalog/category/Skating--1684
+"Toys, Sports & Games",Outdoor Sports ,https://shop.bigbazaar.com/catalog/category/Basketball-1683
+"Toys, Sports & Games",Outdoor Sports ,https://shop.bigbazaar.com/catalog/category/Badminton-1682
+"Toys, Sports & Games",Outdoor Sports ,https://shop.bigbazaar.com/catalog/category/Cricket-1681
+"Toys, Sports & Games",Outdoor Sports ,https://shop.bigbazaar.com/catalog/category/Football-1680
+"Toys, Sports & Games",Indoor Sports,https://shop.bigbazaar.com/catalog/category/Carroms-1687
+"Toys, Sports & Games",Indoor Sports,https://shop.bigbazaar.com/catalog/category/Inflatable-Balls-1228
+"Toys, Sports & Games",Games & Puzzles,https://shop.bigbazaar.com/catalog/category/Puzzles-&-Blocks-1540
+"Toys, Sports & Games",Games & Puzzles,https://shop.bigbazaar.com/catalog/category/Board-Games-1541
+"Toys, Sports & Games",Battery / Non Battery operated toys,https://shop.bigbazaar.com/catalog/category/Cars-&-Diecast-1516
+"Toys, Sports & Games",Battery / Non Battery operated toys,https://shop.bigbazaar.com/catalog/category/Remote-controlled-toys-1517
+"Toys, Sports & Games",Action figures,https://shop.bigbazaar.com/catalog/category/Transformers-1520
+"Toys, Sports & Games",Action figures,https://shop.bigbazaar.com/catalog/category/Collectible-Figures-1521
+"Toys, Sports & Games",Soft Toys & Dolls,https://shop.bigbazaar.com/catalog/category/Fashion-Dolls-and-Doll-house-1511
+"Toys, Sports & Games",Soft Toys & Dolls,https://shop.bigbazaar.com/catalog/category/Teddy-Bears-1513
+"Toys, Sports & Games",Soft Toys & Dolls,https://shop.bigbazaar.com/catalog/category/Animals-&-Figures-1514
+"Toys, Sports & Games",Children Books,https://shop.bigbazaar.com/catalog/category/Activity-Books-1523
+"Toys, Sports & Games",Children Books,https://shop.bigbazaar.com/catalog/category/Educational-Books-1524
+"Toys, Sports & Games",Infant Toys,https://shop.bigbazaar.com/catalog/category/Early-Learning-&-Development-Toys-1526
+"Toys, Sports & Games",Infant Toys,https://shop.bigbazaar.com/catalog/category/Ride-ons-1527
+"Toys, Sports & Games",Infant Toys,https://shop.bigbazaar.com/catalog/category/Baby-&-Toddler-Toys-1528
+Home Fashion,Bed Sheets,https://shop.bigbazaar.com/catalog/category/Double-Bedsheets-1399
+Home Fashion,Bed Sheets,https://shop.bigbazaar.com/catalog/category/Single-Bedsheets-1398
+Home Fashion,Bed Sheets,https://shop.bigbazaar.com/catalog/category/Double-Bed-cover-1554
+Home Fashion,Bed Sheets,https://shop.bigbazaar.com/catalog/category/Single-Bed-cover-1555
+Home Fashion,Bed Sheets,https://shop.bigbazaar.com/catalog/category/Pillow-covers-1556
+Home Fashion,Bed Sheets,https://shop.bigbazaar.com/catalog/category/Pillows&Cushions-1183
+Home Fashion,Towels,https://shop.bigbazaar.com/catalog/category/Bath-Towel-1551
+Home Fashion,Towels,https://shop.bigbazaar.com/catalog/category/Handloom-Towels--1580
+Home Fashion,Towels,https://shop.bigbazaar.com/catalog/category/Hand-towels-1552
+Home Fashion,Towels,https://shop.bigbazaar.com/catalog/category/Face-towels-1553
+Home Fashion,Towels,https://shop.bigbazaar.com/catalog/category/Pillows&Cushions-1183
+Home Fashion,Floor coverings,https://shop.bigbazaar.com/catalog/category/Indoor-Mats-1558
+Home Fashion,Floor coverings,https://shop.bigbazaar.com/catalog/category/Outdoor-mats-1559
+Home Fashion,Floor coverings,https://shop.bigbazaar.com/catalog/category/Dhurries-1560
+Home Fashion,Floor coverings,https://shop.bigbazaar.com/catalog/category/shower-Mat-1561
+Home Fashion,Floor coverings,https://shop.bigbazaar.com/catalog/category/foldable-matress-1562
+Home Fashion,Floor coverings,https://shop.bigbazaar.com/catalog/category/yoga-mat-1563
+Home Fashion,Living,https://shop.bigbazaar.com/catalog/category/door-curtain-1565
+Home Fashion,Living,https://shop.bigbazaar.com/catalog/category/deewan-set-1567
+Home Fashion,Living,https://shop.bigbazaar.com/catalog/category/cushion-cover-1568
+Home Fashion,Kitchen & Dinning,https://shop.bigbazaar.com/catalog/category/Kitchen-Hygiene-1096
+Home Fashion,Kitchen & Dinning,https://shop.bigbazaar.com/catalog/category/Kitchen-Linen-1202
+Home Fashion,Kitchen & Dinning,https://shop.bigbazaar.com/catalog/category/table-covering-1570
+Home Fashion,Blanket Quilt & Dohar,https://shop.bigbazaar.com/catalog/category/Double-quilt-1577
+Home Fashion,Blanket Quilt & Dohar,https://shop.bigbazaar.com/catalog/category/Single-quilt-1576
+Home Fashion,Blanket Quilt & Dohar,https://shop.bigbazaar.com/catalog/category/Double-blanket-1575
+Home Fashion,Blanket Quilt & Dohar,https://shop.bigbazaar.com/catalog/category/Single-blanket-1574
+Home Fashion,Blanket Quilt & Dohar,https://shop.bigbazaar.com/catalog/category/Double-dohar-1573
+Home Fashion,Blanket Quilt & Dohar,https://shop.bigbazaar.com/catalog/category/Single-dohar-1572
+Home Fashion,Blanket Quilt & Dohar,https://shop.bigbazaar.com/catalog/category/Blankets-1212
+Home Fashion,Blanket Quilt & Dohar,https://shop.bigbazaar.com/catalog/category/Home-Furnishing-Dotd-1100
+Home Fashion,Blanket Quilt & Dohar,https://shop.bigbazaar.com/catalog/category/Promo-Bed-sheets-1185
+Home Fashion,Blanket Quilt & Dohar,https://shop.bigbazaar.com/catalog/category/Utility-Bags-1187
+Home Fashion,Blanket Quilt & Dohar,https://shop.bigbazaar.com/catalog/category/Home-Fashion-Essentials-1548
+Home Fashion,Blanket Quilt & Dohar,https://shop.bigbazaar.com/catalog/category/Promo-Bath-Towel-1094
+Home Fashion,Blanket Quilt & Dohar,https://shop.bigbazaar.com/catalog/category/Bed-Sheets-FPCB-1213
+Home Fashion,Blanket Quilt & Dohar,https://shop.bigbazaar.com/catalog/category/Home-Fashion-Spl-1101
+Home & Kitchen Appliances,Home Appliances,https://shop.bigbazaar.com/catalog/category/Water-Heaters-1242
+Home & Kitchen Appliances,Home Appliances,https://shop.bigbazaar.com/catalog/category/Emergency-Lights-1241
+Home & Kitchen Appliances,Home Appliances,https://shop.bigbazaar.com/catalog/category/Air-Conditioner-1144
+Home & Kitchen Appliances,Home Appliances,https://shop.bigbazaar.com/catalog/category/Fan-1075
+Home & Kitchen Appliances,Home Appliances,https://shop.bigbazaar.com/catalog/category/Washing-Machine-1147
+Home & Kitchen Appliances,Home Appliances,https://shop.bigbazaar.com/catalog/category/Refrigerator-1146
+Home & Kitchen Appliances,Home Appliances,https://shop.bigbazaar.com/catalog/category/Iron-1148
+Home & Kitchen Appliances,Kitchen Appliances,https://shop.bigbazaar.com/catalog/category/Coffee-Maker-1150
+Home & Kitchen Appliances,Kitchen Appliances,https://shop.bigbazaar.com/catalog/category/Toaster-&-Sandwich-Makers-1088
+Home & Kitchen Appliances,Kitchen Appliances,https://shop.bigbazaar.com/catalog/category/Hand-Blender-1086
+Home & Kitchen Appliances,Kitchen Appliances,https://shop.bigbazaar.com/catalog/category/Electric-Kettle-1084
+Home & Kitchen Appliances,Kitchen Appliances,https://shop.bigbazaar.com/catalog/category/Microwave-Oven-&-OTG-1083
+Home & Kitchen Appliances,Kitchen Appliances,https://shop.bigbazaar.com/catalog/category/Induction-Cooker-1082
+Home & Kitchen Appliances,Kitchen Appliances,https://shop.bigbazaar.com/catalog/category/Electric-Cooker-1080
+Home & Kitchen Appliances,Personal Grooming,https://shop.bigbazaar.com/catalog/category/Hair-Straighteners-1639
+Home & Kitchen Appliances,Personal Grooming,https://shop.bigbazaar.com/catalog/category/Hair-Dryers-1638
+Home & Kitchen Appliances,Personal Grooming,https://shop.bigbazaar.com/catalog/category/Trimmers-1637
+Electronics,TV & AUDIO,https://shop.bigbazaar.com/catalog/category/Television-1590
+Electronics,TV & AUDIO,https://shop.bigbazaar.com/catalog/category/Party-Speaker-1592
+Electronics,TV & AUDIO,https://shop.bigbazaar.com/catalog/category/Bluetooth-Speaker-1591
+Electronics,Mobile,https://shop.bigbazaar.com/catalog/category/Mobile-accessories-1593
+Electronics,Accessories,https://shop.bigbazaar.com/catalog/category/Headphone-1586
+Electronics,,https://shop.bigbazaar.com/catalog/category/Electronics-under-999-1194
+Celebrate In Style,,https://shop.bigbazaar.com/catalog/category/Dresses-&-Dungarees-1751
+Celebrate In Style,,https://shop.bigbazaar.com/catalog/category/Ethnic-Wear-1745
+Celebrate In Style,,"https://shop.bigbazaar.com/catalog/category/Leggings,-Plazzos,-Skirts-&-Pants-1748"
+Celebrate In Style,,https://shop.bigbazaar.com/catalog/category/Kurtas-1747
+Celebrate In Style,,https://shop.bigbazaar.com/catalog/category/Jackets-1746
+Celebrate In Style,,https://shop.bigbazaar.com/catalog/category/Shirts-1750
+Celebrate In Style,,https://shop.bigbazaar.com/catalog/category/Polos-&-T-Shirts-1749
