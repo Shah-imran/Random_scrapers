@@ -134,7 +134,7 @@ link_df["sub_cat1"]= np.where(link_df.sub_cat1.isna(),
 
 # Save the the data
 TODAY = pd.to_datetime("today").strftime("%d_%b_%y")
-df = get_info(link_df.link.iloc[:3]) # Increase/decrease the category link as required
+df = get_info(link_df.link) # Increase/decrease the category link as required
 df.offer_price = df.offer_price.str.split("\n").str[0]
 m = pd.merge(df, link_df, left_on="cover_page", right_on="link")
 m["sub_cat2"] = m.link.str.split("/").str[-1].str.split("-").str[:-1].str.join(" ")
