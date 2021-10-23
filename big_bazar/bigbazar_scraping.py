@@ -1,6 +1,5 @@
 # Import required modules
 from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
 import time
 import pandas as pd
 import numpy as np
@@ -12,6 +11,9 @@ import numpy as np
 chrome_options = webdriver.ChromeOptions()
 prefs = {"profile.default_content_setting_values.notifications":2}
 chrome_options.add_experimental_option("prefs", prefs)
+
+# Run in headless
+chrome_options.headless = True
 
 
 
